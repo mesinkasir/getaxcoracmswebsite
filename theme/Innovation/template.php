@@ -22,4 +22,4 @@ include('header.inc.php');
 </div></div>
 <?php include('footer.inc.php'); ?>
 <script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script>
-<script src='https://bstp.sourceforge.io/chromis.js'></script>
+<script src='https://mesinkasir.github.io/larapos/pos/gallerya.js'></script>
