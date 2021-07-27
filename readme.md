@@ -20,19 +20,21 @@ Test Speed using [company profile themes](https://github.com/mesinkasir/companyp
 
 
  -----------------------------------------------------------------
+ -----------------------------------------------------------------
 ### how to install
 
 CLOUDS / SHARED HOSTING
 
 Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
-After upload progress success, now you need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL.
-Your website is online now . for accsess backend you need visit yourwebsite/admin
+After upload progress success. Your website is online now . for first need to configure site with accsess on backend - visit yourwebsite/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite, and save.
 
 LOCALHOST
-Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL project.
-Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
+
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder,  for first need to configure site with accsess on backend - visit localhost/projectweb/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite example localhost/projectweb/admin, and save.
 
 By default use username : axcora and password : axcoracms
+
+----------------------
 
 Features :
 + Page for create new post article content you can edit and delete too.
